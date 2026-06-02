@@ -3,6 +3,6 @@
 
 Repository created for ICT
 print("hi")
-helos
+print ("odrey")
 
 print("welcome all)
